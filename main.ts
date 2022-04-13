@@ -31,7 +31,7 @@ namespace OLED {
     const SSD1306_COMSCANDEC = 0xC8
     const SSD1306_SEGREMAP = 0xA0
     const SSD1306_CHARGEPUMP = 0x8D
-    const chipAdress = 0x3C
+    const chipAdress = 0x3D
     const xOffset = 0
     const yOffset = 0
     let charX = 0
